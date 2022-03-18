@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.nisrulz:easydeviceinfo:2.4.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92a79c3276778c4186b56b40353998e3/jetified-easydeviceinfo-2.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2fee5e1e5a1f6534463d2f9e429300b2/transformed/jetified-easydeviceinfo-2.4.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2fee5e1e5a1f6534463d2f9e429300b2/transformed/jetified-easydeviceinfo-2.4.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2fee5e1e5a1f6534463d2f9e429300b2/transformed/jetified-easydeviceinfo-2.4.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nisrulz/easydeviceinfo/2.4.1/c2189e06bd69ef920dbad0944d8d1a009ec66e4d/easydeviceinfo-2.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nisrulz/easydeviceinfo/2.4.1/c2189e06bd69ef920dbad0944d8d1a009ec66e4d/easydeviceinfo-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

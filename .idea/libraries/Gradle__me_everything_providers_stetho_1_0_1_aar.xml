@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: me.everything:providers-stetho:1.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c6a2b51503349d4587211f5b5026a760/transformed/jetified-providers-stetho-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c6a2b51503349d4587211f5b5026a760/transformed/jetified-providers-stetho-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c6a2b51503349d4587211f5b5026a760/transformed/jetified-providers-stetho-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.everything/providers-stetho/1.0.1/d85f6cb36306645ce6602b0f61f79ee6013a2c02/providers-stetho-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.everything/providers-stetho/1.0.1/55f2f49250093ae4edfe3349c0b0ce57947cbe5/providers-stetho-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
